@@ -8,8 +8,31 @@
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/content\/css\/main.css",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 16
+    },
+    "\/content\/scss\/main.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/scss\/main.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/content\/css\/main.css",
+      "fileType" : 4,
+      "debugStyle" : 0
+    },
+    "\/server\/src\/index.js" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 0,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/server\/src\/index.js",
+      "outputStyle" : 1,
+      "syntaxCheckerStyle" : 0,
+      "outputAbbreviatedPath" : "\/Users\/dannyvanderjagt\/Github\/build\/server\/index-ck.js",
+      "fileType" : 64
     },
     "\/content\/index.jade" : {
       "ignoreWasSetByUser" : 0,
@@ -22,37 +45,26 @@
       "outputAbbreviatedPath" : "\/content\/index.html",
       "fileType" : 512
     },
-    "\/server\/src\/index.js" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/server\/src\/index.js",
-      "outputStyle" : 1,
-      "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/Volumes\/37.139.27.240\/build\/server\/index-ck.js",
-      "fileType" : 64
-    },
-    "\/content\/styles\/main.scss" : {
-      "ignoreWasSetByUser" : 0,
-      "ignore" : 0,
-      "hidden" : 0,
-      "outputPathIsSetByUser" : 0,
-      "inputAbbreviatedPath" : "\/content\/styles\/main.scss",
-      "outputStyle" : 0,
-      "shouldRunBless" : 0,
-      "outputAbbreviatedPath" : "\/content\/css\/main.css",
-      "fileType" : 4,
-      "debugStyle" : 0
-    },
     "\/content\/index.html" : {
       "ignoreWasSetByUser" : 0,
       "ignore" : 1,
       "hidden" : 0,
       "outputPathIsSetByUser" : 0,
       "inputAbbreviatedPath" : "\/content\/index.html",
-      "outputAbbreviatedPath" : "No Output Path",
+      "outputAbbreviatedPath" : "\/No Output Path",
       "fileType" : 2048
+    },
+    "\/content\/scss\/normalize.scss" : {
+      "ignoreWasSetByUser" : 0,
+      "ignore" : 1,
+      "hidden" : 0,
+      "outputPathIsSetByUser" : 0,
+      "inputAbbreviatedPath" : "\/content\/scss\/normalize.scss",
+      "outputStyle" : 0,
+      "shouldRunBless" : 0,
+      "outputAbbreviatedPath" : "\/content\/css\/normalize.css",
+      "fileType" : 4,
+      "debugStyle" : 0
     },
     "\/gulpfile.js" : {
       "ignoreWasSetByUser" : 0,
@@ -62,7 +74,7 @@
       "inputAbbreviatedPath" : "\/gulpfile.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/Volumes\/37.139.27.240\/build\/server\/gulpfile-ck.js",
+      "outputAbbreviatedPath" : "\/Users\/dannyvanderjagt\/Github\/build\/server\/gulpfile-ck.js",
       "fileType" : 64
     },
     "\/server\/build\/index.js" : {
@@ -73,7 +85,7 @@
       "inputAbbreviatedPath" : "\/server\/build\/index.js",
       "outputStyle" : 1,
       "syntaxCheckerStyle" : 0,
-      "outputAbbreviatedPath" : "\/Volumes\/37.139.27.240\/build\/server\/index-ck.js",
+      "outputAbbreviatedPath" : "\/Users\/dannyvanderjagt\/Github\/build\/server\/index-ck.js",
       "fileType" : 64
     }
   },

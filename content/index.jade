@@ -1,20 +1,33 @@
 doctype html
-html
+html(lang='en')
   head
-    link(href="./styles/main.css" rel="stylesheet" type="text/css")
+    title = 'Danny van der Jagt'
+    meta(name='viewport', content='width=device-width, initial-scale=1.0')
+    link(href='./css/main.css' rel='stylesheet' type='text/css')
   body
-    img(id='icon' src='./images/suitcase-icon.svg')
-    
     #content
-      img(id='logo' src='./images/logo.svg')
-
-      .socialmedia
-        a(class='socialmedia-item' href='https://twitter.com/TheSuitcaseIO')
-          img(src='./images/twitter.svg')
-        a(class='socialmedia-item' href='http://codepen.io/thesuitcase/')
-          img(src='./images/codepen.svg')
-        a(class='socialmedia-item' href='https://github.com/thesuitcase')
-          img(src='./images/github.svg')
+      #icon
+        a(href='http://www.thesuitcase.io')
+          img(src='images/icon.svg')
+      #name
+        img(src='images/name.svg')
+      #description
+        .line
+        .text.main
+          |We are creating beautiful apps, useful code libraries and codepens with style 
+        .line
+        .text.sub
+          | Created by:
+          br
+          a(href='http://dannyvanderjagt.nl') Danny van der Jagt
+        .line
+      #links
+        a(href='https://github.com/thesuitcase' target='_blank')
+          img(src='images/github.svg')
+        a(href='https://twitter.com/thesuitcaseio' target='_blank')
+          img(src='images/twitter.svg')
+        a(href='http://codepen.io/thesuitcase/' target='_blank')
+          img(src='images/codepen.svg')      
     
-      img(class='comming-soon' src='./images/commingsoon.svg')
+    #background
     
